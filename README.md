@@ -1,8 +1,8 @@
 # ema_logic_server
-## (NASA Space Apps 2020) E.M Analyzer Core Algorithm
+### (NASA Space Apps 2020) E.M Analyzer Core Algorithm
 
 # objectives
-## Help the research and high physics department by automation analysis for the supernova and important sapce events.
+### Help the research and high physics department by automation analysis for the supernova and important sapce events.
 
 # used technologies
 ### - Python Programming Language
